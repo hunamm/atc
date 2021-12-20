@@ -12,6 +12,11 @@
    </PROGDIR>
    <TPOOL>
     <item>
+     <ID>R</ID>
+     <ENTRY>Transportaufträge prüfen</ENTRY>
+     <LENGTH>24</LENGTH>
+    </item>
+    <item>
      <ID>I</ID>
      <KEY>003</KEY>
      <ENTRY>Verarbeitung von Transportauftrag</ENTRY>
@@ -55,6 +60,12 @@
     </item>
     <item>
      <ID>I</ID>
+     <KEY>010</KEY>
+     <ENTRY>Weitere Informationen finden sich im</ENTRY>
+     <LENGTH>72</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
      <KEY>F01</KEY>
      <ENTRY>Transportaufträge</ENTRY>
      <LENGTH>27</LENGTH>
@@ -70,11 +81,6 @@
      <KEY>F03</KEY>
      <ENTRY>Optionen</ENTRY>
      <LENGTH>18</LENGTH>
-    </item>
-    <item>
-     <ID>R</ID>
-     <ENTRY>Transportaufträge prüfen</ENTRY>
-     <LENGTH>24</LENGTH>
     </item>
     <item>
      <ID>S</ID>
