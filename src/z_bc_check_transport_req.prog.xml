@@ -12,11 +12,6 @@
    </PROGDIR>
    <TPOOL>
     <item>
-     <ID>R</ID>
-     <ENTRY>Transportaufträge prüfen</ENTRY>
-     <LENGTH>24</LENGTH>
-    </item>
-    <item>
      <ID>I</ID>
      <KEY>003</KEY>
      <ENTRY>Verarbeitung von Transportauftrag</ENTRY>
@@ -83,10 +78,21 @@
      <LENGTH>18</LENGTH>
     </item>
     <item>
+     <ID>R</ID>
+     <ENTRY>Transportaufträge prüfen</ENTRY>
+     <LENGTH>24</LENGTH>
+    </item>
+    <item>
      <ID>S</ID>
      <KEY>P_CHKV</KEY>
      <ENTRY>Prüfvariante</ENTRY>
      <LENGTH>23</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_ONLREQ</KEY>
+     <ENTRY>Nur Aufträge mit Requestnummer</ENTRY>
+     <LENGTH>38</LENGTH>
     </item>
     <item>
      <ID>S</ID>
